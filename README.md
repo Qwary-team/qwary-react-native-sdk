@@ -1,0 +1,1 @@
+# qwary-react-native-sdk
